@@ -15,6 +15,7 @@ To start the application and the backend instances, run the following commands:
 ## Primary Frameworks
 
 * Flask
+* plant-net
 * torch
 * torchvision
 * numpy
